@@ -1,2 +1,2 @@
 # Ecommerce
-this is a ecommere amazo-bay website
+this is a ecommere haat bazzar website
